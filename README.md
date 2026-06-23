@@ -20,6 +20,12 @@ I architect backend systems that handle scale. My engineering foundation drives 
 
 ---
 
+## 🚀 Projects
+
+- [MedFinder](https://github.com/Dhinakaran-kumaravel/medfinder) — A focused project for discovering and organizing medical information with a clean, practical backend approach.
+
+---
+
 ## 💻 Tech Stack
 
 | **Language** | **Backend** | **Database** | **Tools** |
