@@ -22,10 +22,9 @@ I architect backend systems that handle scale. My engineering foundation drives 
 
 ## 🚀 Projects
 
-- **[MedFinder](https://github.com/Dhinakaran-kumaravel/medfinder)**
-	> Recruiter-ready backend project built to simplify medical discovery with a clean, scalable, user-first approach.
-	>
-	> `Python` · `FastAPI` · `Backend Architecture` · `Scalable APIs`
+| Project | Summary | Stack |
+|:--|:--|:--|
+| [MedFinder](https://github.com/Dhinakaran-kumaravel/medfinder) | Backend application for structured medical discovery and retrieval workflows. | Python · FastAPI · PostgreSQL |
 
 ---
 
