@@ -37,11 +37,13 @@ I architect backend systems that handle scale. My engineering foundation drives 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhinakaran-kumaravel&theme=dark&show_icons=true&hide_border=true&hide=commits&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dhinakaran-kumaravel&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinakaran-kumaravel&theme=dark&layout=compact&hide_border=true&cache_seconds=1800)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhinakaran-kumaravel&theme=github-dark&hide_border=true)
 
 ---
 
