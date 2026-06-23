@@ -1,6 +1,6 @@
 ```
 ❯ whoami
-Dhinakaran K | Backend Architect
+Dhinakaran K | Backend Developer
 ```
 
 **Engineering systems. Shipping impact. No shortcuts.**
